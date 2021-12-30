@@ -1,0 +1,13 @@
+.navbar {
+  background-image: url(img/navbar.jpg);
+  font-size: large;
+  font-weight: bold;
+}
+
+.row {
+  background-color: rgba(245, 245, 245, 0.7);
+}
+
+body {
+  background-image: url(img/bg.jpg);
+}

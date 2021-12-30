@@ -1,0 +1,124 @@
+{
+  "menu": [
+    {
+      "jenis": "Foods",
+      "nama": "Brisket Burger",
+      "deskripsi": "Spesial burger dengan isian yang lezat seperti Ground Beef Patty, Grilled Brisket, Cheese Melt, Lettuce, Pickles, Spicy Thousand Island, Aioli Sauce",
+      "harga": 50000,
+      "estimasi": "15 menit",
+      "gambar": "brisketburger.JPG"
+    },
+    {
+      "jenis": "Foods",
+      "nama": "Cheesesteak",
+      "deskripsi": "Sandwich atau roti lapis yang terbuat dari irisan tipis bistik sapi dan keju yang meleleh dalam gulungan roti hoagie yang panjang",
+      "harga": 30000,
+      "estimasi": "15 menit",
+      "gambar": "cheesesteak.JPG"
+    },
+    {
+      "jenis": "Foods",
+      "nama": "Coney Fries",
+      "deskripsi": "Kentang yang dilumuri keju khas Coney Island dari New York",
+      "harga": 20000,
+      "estimasi": "15 menit",
+      "gambar": "coneyfries.JPG"
+    },
+    {
+      "jenis": "Foods",
+      "nama": "Roti",
+      "deskripsi": "Roti gulung berukuran kecil yang memiliki rasa manis",
+      "harga": 15000,
+      "estimasi": "15 menit",
+      "gambar": "roti.JPG"
+    },
+    {
+      "jenis": "Foods",
+      "nama": "Pretzel",
+      "deskripsi": "Sejenis kue yang berasal dari Eropa. Kue ini berupa tiga simpul atau belitan. Rasanya asin dan sedikit manis",
+      "harga": 10000,
+      "estimasi": "15 menit",
+      "gambar": "pretzel.jpeg"
+    },
+    {
+      "jenis": "Beverages",
+      "nama": "Hot Chocolate",
+      "deskripsi": "Coklat panas atau hot chocolate cocok untuk menghangatkan tubuh saat cuaca dingin",
+      "harga": 20000,
+      "estimasi": "10 menit",
+      "gambar": "hotcoklat.JPG"
+    },
+    {
+      "jenis": "Beverages",
+      "nama": "Susu",
+      "deskripsi": "Susu vanilla yang dapat disajikan hangat atau dingin",
+      "harga": 10000,
+      "estimasi": "10 menit",
+      "gambar": "susu.JPG"
+    },
+    {
+      "jenis": "Beverages",
+      "nama": "Cranberry Juice",
+      "deskripsi": "Jus cranberry bersumber dari vitamin, dan mineral yang baik untuk tubuh",
+      "harga": 15000,
+      "estimasi": "10 menit",
+      "gambar": "cranberryjuice.jpg"
+    },
+    {
+      "jenis": "Beverages",
+      "nama": "Eggnog",
+      "deskripsi": "Eggnog adalah minuman manis dari kuning telur yang dikocok ditambah air dan gula atau susu",
+      "harga": 20000,
+      "estimasi": "10 menit",
+      "gambar": "eggnog.JPG"
+    },
+    {
+      "jenis": "Beverages",
+      "nama": "Fruitpunch",
+      "deskripsi": "Fruit punch adalah minuman yang dibuat dengan jus buah dan campuran buah-buahan yang menyegarkan selepas makan",
+      "harga": 18000,
+      "estimasi": "10 menit",
+      "gambar": "fruitpunch.JPG"
+    },
+    {
+      "jenis": "Desserts",
+      "nama": "Ginger Bread Cookies",
+      "deskripsi": "Gingerbread cookies adalah kue kering yang sering disajikan saat Natal, sangat lezat",
+      "harga": 20000,
+      "estimasi": "10 menit",
+      "gambar": "gingerbreadcookies.JPG"
+    },
+    {
+      "jenis": "Desserts",
+      "nama": "Cupcake",
+      "deskripsi": "Cupcake adalah kue yang berukuran kecil dilapisi kertas dengan rasa beragam",
+      "harga": 10000,
+      "estimasi": "10 menit",
+      "gambar": "cupcake.JPG"
+    },
+    {
+      "jenis": "Desserts",
+      "nama": "Swiss Roll",
+      "deskripsi": "Swiss roll cake atau disebut bolu gulung adalah kue bolu dengan tekstur yang sangat lembut, sampai memberi sensasi lumer di mulut",
+      "harga": 40000,
+      "estimasi": "10 menit",
+      "gambar": "swissroll.JPG"
+    },
+    {
+      "jenis": "Desserts",
+      "nama": "Lemon Pie",
+      "deskripsi": "Lemon pie merupakan pie yang terbuat dari lemon dengan krim vanilla yang lezat",
+      "harga": 35000,
+      "estimasi": "10 menit",
+      "gambar": "lemonpie.jpg"
+    },
+    {
+      "jenis": "Desserts",
+      "nama": "Pudding",
+      "deskripsi": "Pudding adalah dessert yang umumnya menggunakan bahan dasar susu, santan, maupun buah",
+      "harga": 10000,
+      "estimasi": "10 menit",
+      "gambar": "pudding.jpg"
+    }
+  ]
+}
